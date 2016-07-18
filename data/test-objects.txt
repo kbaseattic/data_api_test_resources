@@ -1,15 +1,163 @@
-# Genomes
-OriginalReferenceGenomes/kb|g.166819
-ReferenceGenomeAnnotations/kb|g.166819
-# Features
-ReferenceGenomeAnnotations/kb|g.166819_protein_container
-ReferenceGenomeAnnotations/kb|g.166819_feature_container_gene
-ReferenceGenomeAnnotations/kb|g.166819_feature_container_CDS
-ReferenceGenomeAnnotations/kb|g.166819_feature_container_mRNA
+##########
+# Legacy
+##########
+OriginalReferenceGenomes/kb|g.166819/1
+ReferenceGenomeAnnotations/kb|g.166819/1
+ReferenceGenomeAnnotations/kb|g.166819_protein_container/1
+ReferenceGenomeAnnotations/kb|g.166819_feature_container_gene/1
+ReferenceGenomeAnnotations/kb|g.166819_feature_container_CDS/1
+ReferenceGenomeAnnotations/kb|g.166819_feature_container_mRNA/1
+OriginalReferenceGenomes/kb|g.166819.contigset/1
+ReferenceGenomeAnnotations/kb|g.166819_assembly/1
+##########
+# External data
+##########
+### E.coli str. K-12 substr. MG1655
+# 511145_Refseq_summary
+8020/42/1
+# 511145_Refseq_genome_legacy
+8020/29/1
+# 511145_Refseq_contigset_legacy
+8020/28/1
+# 511145_RefSeq
+8020/27/1
+# 511145_Refseq_annotation_quality
+8020/26/1
+# 511145_Refseq_feature_container_tmRNA
+8020/25/1
+# 511145_Refseq_feature_container_tRNA
+8020/24/1
+# 511145_Refseq_feature_container_repeat_region
+8020/23/1
+# 511145_Refseq_feature_container_rep_origin
+8020/22/1
+# 511145_Refseq_feature_container_rRNA
+8020/21/1
+# 511145_Refseq_feature_container_ncRNA
+8020/20/1
+# 511145_Refseq_feature_container_mobile_element
+8020/19/1
+# 511145_Refseq_feature_container_misc_feature
+8020/18/1
+# 511145_Refseq_feature_container_gene
+8020/17/1
+# 511145_Refseq_feature_container_CDS
+8020/16/1
+# 511145_Refseq_protein_container
+8020/15/1
+# 511145_Refseq_assembly
+8020/14/1
+### Cyanidioschyzon merolae strain 10D
+# Red_Algae_Ensembl_summary
+8020/44/1
+# Red_Algae_Ensembl_genome_legacy
+8020/41/1
+# Red_Algae_Ensembl_contigset_legacy
+8020/40/1
+# Red_Algae_Ensembl
+8020/39/1
+# Red_Algae_Ensembl_annotation_quality
+8020/38/1
+# Red_Algae_Ensembl_feature_container_misc_feature
+8020/37/1
+# Red_Algae_Ensembl_feature_container_misc_RNA
+8020/36/1
+# Red_Algae_Ensembl_feature_container_mRNA
+8020/35/1
+# Red_Algae_Ensembl_feature_container_gene
+8020/34/1
+# Red_Algae_Ensembl_feature_container_exon
+8020/33/1
+# Red_Algae_Ensembl_feature_container_CDS
+8020/32/1
+# Red_Algae_Ensembl_protein_container
+8020/31/1
+# Red_Algae_Ensembl_assembly
+8020/30/1
+### Arabidopsis Thaliana
+# 3702_Ensembl_genome_legacy
+8020/13/1
+# 3702_Ensembl_contigset_legacy
+8020/12/1
+# 3702_Ensembl
+8020/11/1
+# 3702_Ensembl_annotation_quality
+8020/10/1
+# 3702_Ensembl_feature_container_misc_feature
+8020/9/1
+# 3702_Ensembl_feature_container_misc_RNA
+8020/8/1
+# 3702_Ensembl_feature_container_mRNA
+8020/7/1
+# 3702_Ensembl_feature_container_gene
+8020/6/1
+# 3702_Ensembl_feature_container_exon
+8020/5/1
+# 3702_Ensembl_feature_container_CDS
+8020/4/1
+# 3702_Ensembl_protein_container
+8020/3/1
+# 3702_Ensembl_assembly
+8020/2/1
+##########
 # Taxon
-ReferenceTaxons/242159_taxon
-ReferenceTaxons/70447_taxon
-ReferenceTaxons/747676_taxon
-# Assembly
-OriginalReferenceGenomes/kb|g.166819.contigset
-ReferenceGenomeAnnotations/kb|g.166819_assembly
+##########
+ReferenceTaxons/242159_taxon/1
+ReferenceTaxons/70447_taxon/1
+ReferenceTaxons/747676_taxon/1
+# Arabidopsis Thaliana
+ReferenceTaxons/3702_taxon/1
+# E.coli str. K-12 substr. MG1655
+ReferenceTaxons/511145_taxon/1
+# Cyanidioschyzon merolae strain 10D
+ReferenceTaxons/280699_taxon/1
+1779/518434/1
+1779/872620/1
+1779/302658/1
+1779/125680/1
+1779/87821/1
+1779/178590/1
+1779/178320/1
+1779/637363/1
+1779/849748/1
+1779/64663/1
+1779/151652/1
+1779/108692/1
+1779/625118/1
+1779/27907/1
+1779/823160/1
+1779/94696/1
+1779/82430/1
+1779/422/1
+1779/619444/1
+1779/786766/1
+1779/30/1
+1779/518658/1
+1779/765289/1
+1779/67563/1
+1779/62034/1
+1779/4/1
+1779/357850/1
+1779/16947/1
+1779/32804/1
+1779/739581/1
+1779/1/1
+1779/1399/1
+1779/575/1
+1779/121547/1
+1779/706292/1
+1779/93213/1
+1779/13/1
+1779/680062/1
+1779/640580/1
+1779/60599/1
+1779/13062/1
+1779/625084/1
+1779/528/1
+1779/592744/1
+1779/499826/1
+1779/469969/1
+1779/105476/1
+1779/78377/1
+1779/49776/1
+1779/30886/1
